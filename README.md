@@ -1,0 +1,1 @@
+# prometheus-thanous-configuguration
